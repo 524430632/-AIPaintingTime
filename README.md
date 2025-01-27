@@ -15,5 +15,9 @@ As shown in the figure, manually input RGB color values in two input boxes, and 
 
 
 Thank you for using it!
+
+
 Individual developer
+
+
 Contact me: liulh2022@gmail.com
